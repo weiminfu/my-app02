@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# webstorm //使用webstorm时项目中生成的下面目录不提交
+.idea
